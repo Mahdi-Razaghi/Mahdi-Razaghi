@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Deep+Learning;Computer+Vision;Always+Learning...&center=true&width=700&height=70&color=00F7FF&vCenter=true&size=28">
 </p>
+
 ## 🧠 About Me
 
 > ⚡ Designing intelligence from raw data to real-world systems
