@@ -110,3 +110,23 @@ Driven by curiosity, I continuously explore, refine, and solve complex challenge
 </p>
 
 ---
+
+## 🚀 Featured Project
+
+### 🔹 [Tajan](https://github.com/Mahdi-Razaghi/tajan)
+
+AI-based project focused on intelligent data processing and building practical machine learning solutions.
+
+---
+
+<p align="center">
+  ⚡ Building intelligent systems from data to reality
+</p>
+
+<p align="center">
+  🧠 AI | 🔬 Deep Learning | 🚀 Continuous Growth
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
+</p>
