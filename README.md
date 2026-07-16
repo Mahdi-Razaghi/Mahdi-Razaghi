@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+  Mahdi Razaghi
+</h1>
 
-<!--
-**Mahdi-Razaghi/Mahdi-Razaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>⚡ Engineering intelligence — from data to deep learning systems</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Designing+Intelligent+Systems;Deep+Learning+Specialist;From+Data+to+Real+World+Impact&center=true&width=650&height=60&color=00F7FF&vCenter=true&size=22">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+> ⚡ Designing intelligence from raw data to real-world systems
+
+I focus on building AI solutions that are practical, scalable, and applicable to real-world problems.
+
+- 🧠 Deep thinking in problem solving  
+- ⚙️ Engineering efficient ML systems  
+- 🚀 Turning ideas into intelligent products  
+
+Driven by curiosity, I continuously explore, refine, and solve complex challenges to create **smarter and more powerful systems**.
