@@ -84,3 +84,29 @@ Driven by curiosity, I continuously explore, refine, and solve complex challenge
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
+---
+
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahdi-Razaghi&theme=tokyonight" />
+</p>
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi-Razaghi&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb"/>
+</p>
+
+---
+
+## ⚡ Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahdi-Razaghi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff"/>
+</p>
+
+---
