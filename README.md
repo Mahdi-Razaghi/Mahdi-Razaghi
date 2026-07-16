@@ -1,16 +1,19 @@
 <picture>
+  <!-- 🌙 Dark Mode -->
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=ffffff&animation=twinkling&animationDuration=1"
+    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=twinkling&animationDuration=1"
   />
 
+  <!-- ☀️ Light Mode (اصلاح شده) -->
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:e2e8f0,100:93c5fd&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=111827&animation=twinkling&animationDuration=1"
+    srcset="https://capsule-render.vercel.app/api?type=slice&color=0:ffffff,100:93c5fd&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=0f172a&stroke=ffffff&strokeWidth=2&animation=twinkling&animationDuration=1"
   />
 
+  <!-- fallback -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=ffffff&animation=twinkling&animationDuration=1"
+    src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=twinkling&animationDuration=1"
   />
 </picture>
 
