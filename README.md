@@ -92,6 +92,7 @@ Driven by curiosity, I continuously explore, refine, and solve complex challenge
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahdi-Razaghi&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🔥 Contribution Activity
