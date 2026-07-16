@@ -1,15 +1,14 @@
-<h1 align="center">
-  Mahdi Razaghi
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=50&fontColor=ffffff&animation=twinkling&animationDuration=1"/>
+</p>
 
 <p align="center">
   <b>⚡ Engineering intelligence — from data to deep learning systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Designing+Intelligent+Systems;Deep+Learning+Specialist;From+Data+to+Real+World+Impact&center=true&width=650&height=60&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Deep+Learning;Computer+Vision;Always+Learning...&center=true&width=700&height=70&color=00F7FF&vCenter=true&size=28">
 </p>
-
 ## 🧠 About Me
 
 > ⚡ Designing intelligence from raw data to real-world systems
