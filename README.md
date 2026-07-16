@@ -1,14 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=50&fontColor=ffffff&animation=twinkling&animationDuration=1"/>
-</p>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=ffffff&animation=twinkling&animationDuration=1"
+  />
 
-<p align="center">
-  <b>⚡ Engineering intelligence — from data to deep learning systems</b>
-</p>
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:e2e8f0,100:93c5fd&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=111827&animation=twinkling&animationDuration=1"
+  />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Deep+Learning;Computer+Vision;Always+Learning...&center=true&width=700&height=70&color=00F7FF&vCenter=true&size=28">
-</p>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mahdi%20Razaghi&fontSize=55&fontColor=ffffff&animation=twinkling&animationDuration=1"
+  />
+</picture>
 
 ## 🧠 About Me
 
