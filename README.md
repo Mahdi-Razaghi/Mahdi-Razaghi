@@ -89,7 +89,7 @@ Driven by curiosity, I continuously explore, refine, and solve complex challenge
 
 ### ⚙️ Tools & Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,cursor" />
 </p>
 
 ---
