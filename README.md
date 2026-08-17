@@ -96,7 +96,7 @@ Driven by curiosity, I continuously explore, refine, and solve complex challenge
 
 ### 🌐 Web Basics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,typescript" />
 </p>
 
 ---
